@@ -6,6 +6,17 @@
 @import url("style.rodapé.css");
 
 :root {
+--cor-de-fundo: #ebecee;
+--branco: #ffffff;
+--laranja: #eb9b00;
+--azul-degrade: linear-gradiend(97.54dec, #002f52 35.49%, #326589 165.37%);
+--fonte-principal: "poppins";
+--azul: #002f52;
+--fonte-segundario: "josefin Sans";
+--preto: #000000;
+--cinza: #474646;
 
-    
+
+
+
 }
